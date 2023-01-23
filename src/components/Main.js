@@ -4,7 +4,10 @@ import React from "react";
 
 function Main(props){
     return (
-        <main id={props.id}>{props.content}</main>
+        <div id="main">
+         <main id={props.id}>{props.content}</main>
+        </div>
+       
     )
 }
 
