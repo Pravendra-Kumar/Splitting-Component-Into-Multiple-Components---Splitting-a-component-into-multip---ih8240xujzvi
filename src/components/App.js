@@ -7,7 +7,7 @@ function App() {
         <div id="container">
             <Header id = "my-header" content = "This is the header"/>
             <Main  id = "my-main" content  = "This is the main"/>
-            <Footer id = "my-footer" content = "Footer contains the content"/>
+            <Footer id = "my-footer" content = "This is the footer"/>
            
         </div>
     );
