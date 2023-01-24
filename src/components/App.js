@@ -5,9 +5,9 @@ import Footer from "./Footer";
 function App() {
     return (
         <div className="container">
-            <Header id = "header" content = "Header"/>
-            <Main  id = "main" content  = "Main"/>
-            <Footer id = "footer" content = "Footer"/>
+            <Header id = "my-header" content = "Header"/>
+            <Main  id = "my-main" content  = "Main"/>
+            <Footer id = "my-footer" content = "Footer"/>
            
         </div>
     );
